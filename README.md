@@ -1,2 +1,2 @@
 # tourismwatchph
-Department of Tourism App
+Department of Tourism Application
